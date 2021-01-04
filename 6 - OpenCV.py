@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("logo.png")
+img = cv2.imread("Images/opencv21.webp")
 gray = cv2.imread('logo.png',cv2.IMREAD_GRAYSCALE)
 
 
